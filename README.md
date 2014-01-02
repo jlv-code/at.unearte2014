@@ -1,4 +1,5 @@
-Tema Wordpress del Sitio Web de la Coordinación de Investigación de Artes Tradicionales
-=======================================================================================
+at.unearte2014
+==============
 
-Este tema ha sido realizado desde cero para la Coordinación de Investigación de Artes Tradicionales de UNEARTE
+Wordpress Theme developed for Centro de Investigación de Artes Tradicionales – UNEARTE website.
+
