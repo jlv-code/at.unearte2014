@@ -213,6 +213,26 @@ div#content .inner-content {
 	background-color: #555;
 }
 
+.inner-content section.the-content .the-meta {
+	margin-top: 15px;
+}
+
+.inner-content section.the-content .the-meta .the-categories,
+.inner-content section.the-content .the-meta .the-tags {
+	color: #aaa;
+	font-size: 12px;
+}
+
+.inner-content section.the-content .the-meta .the-categories span a {
+	color: #B5272D;
+	text-decoration: none;
+}
+
+.inner-content section.the-content .the-meta .the-tags span a {
+	color: #555;
+	text-decoration: none;
+}
+
 .inner-content section.the-content article.content {
 	margin-top: 10px;
 	width: 100%;
