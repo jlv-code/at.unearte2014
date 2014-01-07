@@ -29,7 +29,7 @@ register_nav_menus(
 
 // Función que permite controlar la cantidad de palabras en el Excerpt
 function custom_excerpt_length($length) {
-	return 90;
+	return 20;
 }
 add_filter( 'excerpt_length', 'custom_excerpt_length', 999 );
 

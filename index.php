@@ -24,7 +24,8 @@
     				contribuir al empoderamiento de las artes tradicionales en los diferentes tipos de 
     				comunidades.
     				</li>
-    				<li>generar productos con impacto social entre universidad, maestros honorarios y sus 
+    				<li>
+    				generar productos con impacto social entre universidad, maestros honorarios y sus 
     				comunidades.
     				</li>
     				<li>
