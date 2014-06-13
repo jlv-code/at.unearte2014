@@ -1,7 +1,7 @@
 		<aside class="sidebar">
 			<div class="widgets-sidebar">
 				<h2>Últimas investigaciones</h2>
-				<?php $args = array('posts_per_page' => '5'); ?>
+				<?php $args = array('posts_per_page' => '4','category_name'=>'investigaciones'); ?>
 				<?php $the_query = new WP_Query($args);	?>
 				<?php if ($the_query->have_posts()): ?>
 					<?php while ($the_query->have_posts()): $the_query->the_post(); ?>
