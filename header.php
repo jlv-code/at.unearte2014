@@ -7,6 +7,7 @@
 </title>
 
 <meta itemprop="name" content="jlvdesign.blogspot.com" />
+<meta name="google-site-verification" content="hCKV45DOKcj-7BcL0C4yLji3UY4lNIT9At3_zKwyjgo" />
 <meta itemprop="author" content="José Viéitez" />
 <meta itemprop="copyright" content="<?php print date('Y') ?>" />
 <meta name="distributor" content="Local" />
@@ -25,6 +26,10 @@
   ga('create', 'UA-31218036-2', 'unearte.edu.ve');
   ga('send', 'pageview');
 
+</script>
+
+<script type="text/javascript">
+  window.google_analytics_uacct = "UA-31218036-2";
 </script>
 
 <?php wp_head() ?>
